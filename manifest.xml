@@ -1,0 +1,9 @@
+<Items>
+    <Item type="module"
+          name="devdb"
+          version="1.0.0"
+          health="beta"
+          author="Jake Valletta (jakev)"
+          about="Module for analyzing Linux devices."
+          localName="devdb" />
+</Items>
